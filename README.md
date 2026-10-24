@@ -1,5 +1,7 @@
 # 🎓 Grant AI: Academic Scholarship Eligibility & Allocation Predictor
 
+[![CI](https://github.com/Az1zbekx/Grant_AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Az1zbekx/Grant_AI/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random%20Forest-F7931E.svg?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
